@@ -23,7 +23,6 @@ namespace Matematicas.controlador
             elev = Math.Pow(b, 2);
             multiraiz = 4*(a * c);
             infe = 2 * a;
-            //Comentario
             denraiz = elev - multiraiz;
             raiz = Math.Sqrt(denraiz);
             primerb = (-(b));
